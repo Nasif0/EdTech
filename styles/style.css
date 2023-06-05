@@ -44,3 +44,64 @@
      font-size: 20px;
      color: #FFFFFF;
 }
+/* ---------------slider end--------------- */
+.discover{
+     padding: 130px;
+}
+.discover h1{
+     font-size: 45px;
+     color: #1D1D1D;
+}
+.discover p{
+     font-size: 16px;
+     color: #777777;
+}
+/* ------------------courses start----------------- */
+.courses-king{
+     border: 1px solid #E8E8E8;
+     border-radius: 5px;
+     width: 500px;
+     height: 200px;
+     
+}
+.courses{
+    
+     
+}
+.courses-text{
+     padding: 24px;
+}
+.courses-text h5{
+     font-size: 25px;
+     color: #4A4A4A;
+}
+.courses-img{
+     width: 200px;
+     height: 200px;
+     
+}
+.courses-text p{
+     font-size: 16px;
+     color: #777777;
+}
+.courses-text h6{
+     font-size: 18px;
+     color: #289BDE;
+}
+.courses-button{
+     width: 248px;
+height: 56px;
+border-radius: 5px;
+margin-left: 40%;
+margin-top: 63px;
+
+
+}
+.courses-button a{
+     text-decoration: none;
+     color: #FFFFFF;
+     font-size: 20px;
+
+}
+/* --------------------courses end-------------------- */
+
