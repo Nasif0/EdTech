@@ -64,10 +64,7 @@
      height: 200px;
      
 }
-.courses{
-    
-     
-}
+
 .courses-text{
      padding: 24px;
 }
@@ -105,3 +102,138 @@ margin-top: 63px;
 }
 /* --------------------courses end-------------------- */
 
+/*-------------------earining rating start ------------------ --*/
+
+.earning-img{
+     width: 600px;
+     height: 806px;
+}
+.earning-bg{
+     width: 1120px;
+     height: 806px;
+     background: #F4FAFD;
+     border-radius: 5px;
+}
+.earning-text{
+     margin-left: 60px;
+
+}
+.earning-text h1{
+     font-size: 45px;
+     color: #1D1D1D;
+}
+.earning-text p{
+     font-size: 10px;
+     color: #777777;
+}
+.earning-button a{
+     text-decoration: none;
+     color: #FFFFFF;
+     font-size: 20px;     
+}
+.register{
+     width: 1120px;
+     height: 300px;
+     background: #289BDE;
+     border-radius: 5px;
+     margin-top: 130px;
+}
+.register-text{
+     color: #FFFFFF;
+}
+.register-text p{
+     font-size: 10px;
+     color: #F4F4F4;
+}
+.register-button{
+     width: 199px;
+height: 56px;
+margin-left: 30px;
+}
+.register-button a{
+     text-decoration: none;
+     color: #000000;
+}
+/* -------------------earning end------------------------ */
+/* ----------------successful student----------- */
+
+.successful-student h1{
+     font-size: 45px;
+     color: #1D1D1D;
+
+}
+.successful-student p{
+     font-size: 16px;
+     color: #777777;
+
+}
+.student{
+     width: 265px;
+height: 350px;
+border: 1px solid #E8E8E8;
+border-radius: 5px;
+}
+.student-img{
+     width: 265px;
+     height: auto;  
+     border-radius: 5px 5px 0px 0px;
+}
+.student h1{
+     font-size: 20px;
+     color: #4A4A4A;
+}
+.student p{
+     font-size: 16px;
+     color: #777777;
+}
+.student-text{
+     padding: 21px;
+}
+.student-button{
+     margin-left: 46%;
+}
+.student-button a {
+     font-size: 20px;
+     color: #FFFFFF;
+     text-decoration: none;
+
+}
+/* ----------------student end--------------- */
+.some-student-feedback h1{
+     font-size: 45px;
+     color: #1D1D1D;
+
+}
+.some-student-feedback p{
+     font-size: 16px;
+     color: #777777;
+}
+.student-feedback{
+     width: 570px;
+height: 336px;
+border: 1px solid #E8E8E8;
+
+}
+.student-icon a{
+     color:#F59E0B;
+     
+}
+.student-icon{
+     margin-right: 40px;
+}
+.student-feedback-text p{
+     font-size: 16px;
+     color: #777777;
+     margin-top: 20.33px;
+}
+.student-feedback-img{
+     width: 42px;
+     height: 42px;  
+}
+.student-f-name{
+     margin-left: 20px;
+}
+.student-f-name p{
+     font-size: 16px;
+
+}
