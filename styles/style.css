@@ -1,0 +1,46 @@
+*{
+     margin: 0;
+     padding: 0;
+     font-family: 'Poppins', sans-serif;
+}
+/* header  */
+/* ----------------navbar start-------------- */
+.nav-logo{
+     font-weight: 600;
+     font-size: 40px;
+     text-decoration: none;
+     color: #4A4A4A;
+     text-align: center;
+     
+}
+.nav-text{
+
+     font-size: 18px;
+     font-weight: 400;
+     margin-right: 15%;
+     
+}
+.header-button{
+     margin-left: 10%;
+}
+/* -----------------Navbar end----------------------- */
+/* slidr */
+.slider{
+     padding: 65px;
+     border-radius: 5px;
+     
+     
+}
+.slider-text h1{
+     font-size: 65px;
+
+}
+.slider-text p{
+     font-size: 18px;
+     color: #F4F4F4;
+}
+.slider-text button a{
+     text-decoration: none;
+     font-size: 20px;
+     color: #FFFFFF;
+}
