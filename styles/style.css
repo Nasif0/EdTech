@@ -469,3 +469,134 @@ margin-left: 150px;
 
 
 }
+/* mobile Query end -----------
+--------------------
+---------------------------*/
+
+/* Tablet Query start---------------
+-------------------------------- */
+@media only screen and (min-width:688px) and (max-width:1024px){
+
+     .body{
+          margin: 0;
+          padding: 0;
+     }
+     
+     .nav-logo{
+          font-size: 35px;
+     }
+     
+    
+     
+    
+     .slider{
+          width: 734px;
+          height: 400px;
+          margin-left: -50px;
+          
+     }
+     .slider-text h1{
+          font-size: 40px;
+         
+     }
+     .discover{
+          
+     }
+     .discover h1{
+          font-size: 30px;
+         
+
+     }
+     .discover p{
+          font-size: 16px;
+     }
+     .courses-king{
+          width: 734px;
+          height: 200px;
+          margin-left: -40px;
+          
+          
+          
+         
+           
+     }
+     .courses-tablet{
+          flex-direction: column;
+          
+     }
+     .earning-bg{
+          
+          width: 734px;
+          height: 543px;
+          margin-left: -10px;
+          
+     }
+     .earning-img{
+          width: 334px;
+          height: 543px; 
+     }
+     .register{
+          width: 734px;
+height: 300px;
+margin-left: -10px;
+     }
+     .successful-student{
+         
+          text-align: center;
+     }
+
+     .successful-student h1{
+          font-weight: bolder;
+     }
+     .student{
+         
+     }
+     .student-button{
+         display: none;
+     }
+     .some-student-feedback{
+          
+         
+     }
+     .some-student-feedback h1{
+          font-weight: bolder;
+     }
+     .student-feedback{
+          width: 734px;
+          height: 336px;
+          margin-left: -10px;
+          
+     }
+     .student-feedback-tablet{
+          flex-direction: column-reverse;
+     }
+     .ask-question{
+            
+     }
+     .ask-question h1{
+          font-weight: bolder;
+
+     }
+     .question-accordion{
+          width: 734px;
+          height: 336px;
+          margin-left: -6%;
+     }
+     .trusted-company{
+          display: none;
+     }
+     .trusted-company-img{
+          display: none;
+     }
+     .footer-background{
+          width: 834px;
+          height: 332px;
+          margin-top: 10%;
+     }
+     
+     
+     
+     
+    
+
+}
