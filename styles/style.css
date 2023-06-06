@@ -199,6 +199,7 @@ border-radius: 5px;
 
 }
 /* ----------------student end--------------- */
+/* student feedback start */
 .some-student-feedback h1{
      font-size: 45px;
      color: #1D1D1D;
@@ -237,9 +238,27 @@ border: 1px solid #E8E8E8;
      font-size: 16px;
 
 }
+/* student feedback end */
+/* accordion start */
 .question-accordion{
      width: 872px;
 height: 520px;
 padding: 50px;
 margin-left: 150px;
+}
+/* accordion end */
+
+.footer-background{
+     width: 1213px;
+     height: 472px;
+     background-color: #161616;
+     padding: 130px; 
+}
+.footer-text{
+     color: #FFFFFF;
+     
+}
+.footer-text p{
+     font-size: 16px;
+     color: #E8E8E8;
 }
